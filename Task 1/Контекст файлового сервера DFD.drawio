@@ -1,0 +1,348 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.2 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.2">
+  <diagram name="Страница — 1" id="DP7TmNHtPNwdQ04ViJx4">
+    <mxGraphModel dx="2253" dy="2010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-17" value="Пациент" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-18" value="&lt;div&gt;Данные&lt;/div&gt;&lt;div&gt;паспорта&lt;/div&gt;" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-17" target="7" edge="1">
+          <mxGeometry x="-0.4269" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="470" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="140" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-22" value="Плательщик" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-33" value="&lt;div&gt;Вся&lt;/div&gt;&lt;div&gt;бухгалтерия&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;" parent="1" source="7" target="dLkgNgau4KQnL4T7qV0y-57" edge="1">
+          <mxGeometry x="0.346" y="-8" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="385" as="sourcePoint" />
+            <mxPoint x="370" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="385" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-35" value="Сотрудник" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-38" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Информация о работе&lt;/span&gt;&lt;/div&gt;" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-35" target="7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="330" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-42" value="Архитектор" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-44" value="&lt;div&gt;Архитектурная ифнормация&lt;/div&gt;" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-42" target="7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="450" as="sourcePoint" />
+            <mxPoint x="480" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="430" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-46" value="Администратор сети" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="305" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-51" value="&lt;div&gt;Документация по оборудоанию&lt;/div&gt;&lt;div&gt;и сети&lt;/div&gt;" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="7" target="dLkgNgau4KQnL4T7qV0y-46" edge="1">
+          <mxGeometry x="0.5406" y="-2" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="385" as="sourcePoint" />
+            <mxPoint x="290" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="385" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-55" value="Бизнес аналитик" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="190" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-57" value="Бухгалтерия" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="680" y="380" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-63" value="Данные по зарплатам" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-57" target="7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720.9600930550082" y="492.4711352364834" as="sourcePoint" />
+            <mxPoint x="480" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="470" />
+              <mxPoint x="480" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-66" value="&lt;div&gt;Информация&lt;/div&gt;&lt;div&gt;о налогах&lt;/div&gt;" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-57" target="7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850.6552344724641" y="578.7642373253984" as="sourcePoint" />
+            <mxPoint x="480" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="560" />
+              <mxPoint x="480" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-68" value="&lt;div&gt;Журнал приема пациентов,&lt;/div&gt;&lt;div&gt;учет пациентов,&lt;/div&gt;&lt;div&gt;учет платежей,&lt;/div&gt;&lt;div&gt;мед.карты,&lt;/div&gt;&lt;div&gt;учет анализов&lt;/div&gt;" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="7" target="dLkgNgau4KQnL4T7qV0y-55" edge="1">
+          <mxGeometry x="0.7564" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="385" as="sourcePoint" />
+            <mxPoint x="410" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="385" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-71" value="Пациент" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-30" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-74" value="Анализы" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-71" target="7" edge="1">
+          <mxGeometry x="-0.5134" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="410" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="40" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-76" value="Пациент" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-79" value="&lt;div&gt;Информация&lt;/div&gt;&lt;div&gt;о заболеваниях&lt;/div&gt;" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-76" target="7" edge="1">
+          <mxGeometry x="-0.5772" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="390" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="-60" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-81" value="Медицинский работник" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="680" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-82" value="Медицинские данные" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="7" target="dLkgNgau4KQnL4T7qV0y-81" edge="1">
+          <mxGeometry x="0.6553" y="25" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="385" as="sourcePoint" />
+            <mxPoint x="670" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="385" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-84" value="Налоговые документы" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-57" target="27" edge="1">
+          <mxGeometry x="0.1538" y="-5" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="405" as="sourcePoint" />
+            <mxPoint x="1010" y="413.4848484848485" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-86" value="Данные перевода" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-57" target="28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1090" y="490" as="sourcePoint" />
+            <mxPoint x="1018.75" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-90" value="Медицинские данные" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-81" target="7" edge="1">
+          <mxGeometry x="-0.4222" y="-20" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="921.1658853383233" y="103.28213931771552" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="230" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-93" value="Данные о платежах" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-57" target="7" edge="1">
+          <mxGeometry x="0.0875" y="-38" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030.6733473937725" y="708.6796007314165" as="sourcePoint" />
+            <mxPoint x="480" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="730" y="650" />
+              <mxPoint x="480" y="590" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-99" value="&lt;div&gt;Результаты анализа&lt;/div&gt;&lt;div&gt;данных&lt;/div&gt;" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-55" target="7" edge="1">
+          <mxGeometry x="0.2669" y="-25" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1030.8957249956402" y="2.2760687510899515" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="-150" />
+              <mxPoint x="480" y="-60" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-100" value="Результаты обслуживания" style="endArrow=classic;html=1;rounded=1;curved=0;" parent="1" source="dLkgNgau4KQnL4T7qV0y-46" target="7" edge="1">
+          <mxGeometry x="0.4515" y="-14" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1350" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="330" />
+              <mxPoint x="1170" y="850" />
+              <mxPoint x="480" y="670" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-101" value="Медкарта - содержит медицинскую информацию" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="738" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-102" value="&lt;div&gt;Медицинская информация:&lt;/div&gt;&lt;div&gt;- информация о заболеваниях&lt;/div&gt;&lt;div&gt;- информацию об анализах и их результатах&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="660" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-103" value="&lt;div&gt;Вся бухгалтерия:&lt;/div&gt;&lt;div&gt;- договора&lt;/div&gt;&lt;div&gt;- платежная информация&lt;/div&gt;&lt;div&gt;- карточки сотрудника&lt;/div&gt;&lt;div&gt;- налоговая информация&lt;/div&gt;&lt;div&gt;- данные о зарплатах&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="785" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dLkgNgau4KQnL4T7qV0y-104" value="&lt;div&gt;Карточка сотрудника:&lt;/div&gt;&lt;div&gt;- паспортные данные&lt;/div&gt;&lt;div&gt;- телефон&lt;/div&gt;&lt;div&gt;- адрес электронной почты&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="50" y="560" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2" value="Данные карты" style="endArrow=classic;html=1;" parent="1" source="dLkgNgau4KQnL4T7qV0y-22" target="7" edge="1">
+          <mxGeometry x="-0.3239" y="14" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="330" as="sourcePoint" />
+            <mxPoint x="480" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="230" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="Сотрудник" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Информация о учебе" style="endArrow=classic;html=1;" parent="1" source="3" target="7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="330" as="sourcePoint" />
+            <mxPoint x="430" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="Работа с файловым сервером" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
+          <mxGeometry x="450" y="355" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Контекст файлового сервера" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-325" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Ресепшн" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="810" y="180" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Записи к&lt;div&gt;специалистам,&lt;/div&gt;&lt;div&gt;договора&lt;/div&gt;" style="endArrow=classic;html=1;" parent="1" source="7" target="10" edge="1">
+          <mxGeometry x="0.3882" y="-1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="330" as="sourcePoint" />
+            <mxPoint x="850" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="385" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="Запись к специалисту,&lt;div&gt;договор&lt;/div&gt;" style="endArrow=classic;html=1;" parent="1" source="10" target="7" edge="1">
+          <mxGeometry x="0.0808" y="-34" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="330" as="sourcePoint" />
+            <mxPoint x="850" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="80" />
+              <mxPoint x="480" y="140" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="Кассир" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="150" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="Данные&lt;div&gt;о платежах&lt;/div&gt;" style="endArrow=classic;html=1;" parent="1" source="7" target="13" edge="1">
+          <mxGeometry x="0.3026" y="1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="330" as="sourcePoint" />
+            <mxPoint x="850" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="385" />
+            </Array>
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="Данные о платежах" style="endArrow=classic;html=1;" parent="1" source="13" target="7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="330" as="sourcePoint" />
+            <mxPoint x="850" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="-40" />
+              <mxPoint x="480" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="Сотрудник ТМЦ" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-230" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="Данные о ТМЦ" style="endArrow=classic;html=1;" parent="1" source="17" target="7" edge="1">
+          <mxGeometry x="-0.6257" y="4" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="130" as="sourcePoint" />
+            <mxPoint x="850" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="-170" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="Данные о ТМЦ" style="endArrow=classic;html=1;" parent="1" source="7" target="17" edge="1">
+          <mxGeometry x="-0.3257" y="30" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="230" as="sourcePoint" />
+            <mxPoint x="850" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="385" />
+              <mxPoint x="1360" y="230" />
+              <mxPoint x="1360" y="-270" />
+              <mxPoint x="100" y="-260" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="ТМЦ - товарно-материальные ценности" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="40" y="900" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="Медицинское оборудование" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
+          <mxGeometry x="-170" y="-220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="Состояние&lt;div&gt;оборудования&lt;/div&gt;" style="endArrow=classic;html=1;" parent="1" source="21" target="17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="30" as="sourcePoint" />
+            <mxPoint x="270" y="-20" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="Сетевое оборудование и устройства" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;left=0;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="315" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="Состояние оборудования" style="endArrow=classic;html=1;" parent="1" source="23" target="dLkgNgau4KQnL4T7qV0y-46" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="450" as="sourcePoint" />
+            <mxPoint x="850" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1360" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27" value="Налоговая служба" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="380" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="Зарплатый счет сотрудника" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="460" width="100" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
